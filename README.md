@@ -1,6 +1,7 @@
 # graduation-project-ai
 
- Machine Learning–Based Construction Equipment Prediction System
+ Machine Learning–Based Construction Equipment Prediction System:
+ 
  A machine learning system that predicts the number of construction equipment (cranes, trucks, excavators, etc.) needed for construction projects. It adjusts predictions based on project details and weather conditions to improve planning and resource allocation.
  
  Features:
@@ -15,13 +16,13 @@
 
 Usage:
 
-Open the notebook (notebook.ipynb) in Google Colab or Jupyter Notebook.
+1. Open the notebook (notebook.ipynb) in Google Colab or Jupyter Notebook.
 
-Provide project details (area, type, sector) and weather conditions.
+2. Provide project details (area, type, sector) and weather conditions.
 
-Run the prediction cells to see the estimated equipment requirements.
+3. Run the prediction cells to see the estimated equipment requirements.
 
-Example inputs and outputs are included in the user_interface screenshots.
+4. Example inputs and outputs are included in the user_interface screenshots.
 
 Goal:
 
